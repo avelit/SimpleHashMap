@@ -8,8 +8,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
 public class Tests {
-  //ключей типа int и значений типа long. Для упрощения размер внутренней хеш-таблицы может быть фиксированным.
-  //Реализуйте операции put, get, size. Протестируйте правильность работы с помощью соответствующих Unit Tests.
+
   @Test
   public void size1() {
     //given
